@@ -1,0 +1,51 @@
+body{
+    background-color: #4D2F41;
+}
+
+.Logo{
+   background-color: #E6B9D1;
+   text-align: center;
+   margin: 0 auto ;
+}
+
+.Menu{
+    text-align: center;
+    background-color: aliceblue;
+}
+
+li{
+    display: inline-flex;
+    margin: 20px;
+    color: #4D2F41;
+}
+
+h1{
+    color: aliceblue;
+    text-align: center;
+}
+
+.Corpo{
+    height: 900px;
+    text-align: center;
+}
+
+img{
+    margin: 20px;
+}
+
+.Rodape{
+    background-color: #E6B9D1;
+    height: 200px;
+}
+
+h2{
+    margin: 10px 10px 10px 10px;
+    text-align: center;
+    color: aliceblue;
+} 
+
+h3{
+    margin: 20px;
+    text-align: center;
+    color: aliceblue;
+}
